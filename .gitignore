@@ -1,0 +1,6 @@
+# Ignore common hidden files
+.*
+
+# Add back common .git .obsidian
+!.git*
+!.obsidian
