@@ -2,6 +2,9 @@
 
 > A curated list of factory building games - like factorio and satisfactory
 > This list will probably be maintained until the genre is formally defined, on steam, or other gaming DB's
+>
+> Want to find out how, FBG games help you level up as a programmer?
+> [You can read more at this article here, which inspired the creation of this list](https://substack.tech-talk-cto.com/p/introducing-factory-building-games)
 
 # Defining Factory Building Games
 
